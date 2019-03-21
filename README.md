@@ -1,4 +1,7 @@
 # HostelEssential
+
+THIS HAS BEEN CLOSED AND WILL BE REMOVED SOON
+
 onCreate() Project Team Repository
 
 Welcome Devs!
