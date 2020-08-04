@@ -4,6 +4,8 @@ THIS HAS BEEN CLOSED AND WILL BE REMOVED SOON
 
 onCreate() Project Team Repository
 
+<a href="https://drive.google.com/file/d/15g3pY7misQLzbSJG91yVR-lNq6TPvTv2/view?usp=sharing">Software requirements document</a>
+
 Welcome Devs!
 Keep these few guidelines in mind as you develop the app:
 
